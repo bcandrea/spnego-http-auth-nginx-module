@@ -45,6 +45,10 @@ this module zipball and pass an `--add-module` option to nginx' configure:
 We've also made available a pre-built [nginx-spnego package for
 OpenSuSE](https://build.opensuse.org/package/show?package=nginx-spnego&project=home%3Avjt%3Aifad).
 
+Ubuntu 12.04 LTS packages for the latest version of Nginx compiled with the SPNEGO module
+are [available in this PPA](https://launchpad.net/~bcandrea/+archive/nginx-stable).
+
+
 Crash course to Windows KDC Configuration
 -----------------------------------------
 
